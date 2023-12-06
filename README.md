@@ -5,11 +5,11 @@ This repository contains practical examples and exercises to help developers lea
 
 Topics Covered:
 
-List :: ArrayList, LinkedList, and Vector |  
-Set  :: HashSet, LinkedHashSet, and TreeSet |  
-Map  :: HashMap, LinkedHashMap, and TreeMap |  
-Iterators and Enumeration |  
-Sorting and Searching in Collections |  
+List :: ArrayList, LinkedList, and Vector   
+Set  :: HashSet, LinkedHashSet, and TreeSet   
+Map  :: HashMap, LinkedHashMap, and TreeMap   
+Iterators and Enumeration  
+Sorting and Searching in Collections   
 
 These examples reinforce your understanding of Java collections and strengthen your programming skills. 
 
